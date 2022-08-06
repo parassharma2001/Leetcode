@@ -2,7 +2,6 @@
 //Binary Number with Alternating Bits
 
 
-
 class Solution {
     public boolean hasAlternatingBits(int n) {
     String str = Integer.toBinaryString(n);
